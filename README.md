@@ -15,3 +15,5 @@ Por fim, selecionamos um avatar no D-ID e enviamos o audio para que a IA pudesse
 
 ## 🚀 Resultados
 O resultado foi um curto vídeo gerado completamente por Ia, demonstrando sua evolução e capacidade de geração de conteúdo que pode ser usado de forma positiva em diversas áreas como ferramenta de aprendizado e otimização de tempo.
+
+[LINK PARA O VÍDEO AQUI](https://drive.google.com/file/d/1rvek0nsIi9ZYYiNfZq9P7AlKX1vi62jI/view)
